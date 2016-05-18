@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Lion Mobile</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_splash_screen">Lion Mobile</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="motor_comprehensive_cover_details"><![CDATA[
+ <h2>WHAT IS MOTOR COMPREHENSIVE INSURANCE COVER?</h2>
+
+ <p>With this insurance policy, we cover and insure for loss of,
+ or damage to the vehicle or its accessories and spare parts which there
+ on from any cause not specifically excluded. If replacement parts are not available
+ or are out of stock from the manufacturer\'s representative or agents in East Africa,
+ we will have to pay the extra cost of transporting them from elsewhere.</p>
+
+ <p>In case the vehicle is under a hire-purchase or leasing agreement, we may pay the legal owner for any loss or damage to the vehicle.
+ We also cover and insure the vehicle against damage arising out of riot, strike and civil commotion, malicious damage as well as storm, flood, earthquake and volcanic eruption.</p>
+
+ <p>Under section 2 of our policy we cover and insure the motorist against his or her legal liability to the third party arising out of the use of the vehicle in respect of:</p>
+
+<p>* Death or bodily injury</p>
+<p>* Property damage.</p>
+
+
+<h2>INDICATURE RATES</h2>
+
+<p>* Motor private - 4%%                             </p>
+<p>* Motor commercial (own business carriage) - 5%%  </p>
+<p>* Motor commercial (general carriage ) - 6%%		</p>
+
+
+<h2>THIS POLICY IS ALSO EXTENDED TO COVER*</h2>
+
+<p>We extend this cover and insurance policy to include;</p>
+
+<h3>* Loss of keys</h3>
+<p>In the event of car keys or lock transmitter of the vehicle being lost or stolen, we pay the cost for their replacement.</p>
+<h3>* Medical expenses</h3>
+<p>We pay the medical expenses incurred following bodily injury to the insured or his/her driver as a result of an accident to the insured vehicle.</p>
+<h3>* Windscreen cover</h3>
+<p>We\'ll pay the cost of replacing damaged or broken glass in the windscreen, windows or glass in sunroofs of the vehicle on replacement basis at no extra cost on your part!</p>
+<h3>* Breakdown assistance</h3>
+<p>If you cannot drive the vehicle as a result of an accident covered by the policy, we will arrange and pay for costs incurred in protecting the vehicle as well as those for towing the vehicle to the nearest competent repairer or to a garage of your choice, whichever is closer.</p>
+<h3>* Authority to Repair</h3>
+<p>In case the car gets an accident and it is really hard to inform us (i.e. the accident occurring in a place where we have no regional offices) you have the right to authorize repairs up to a specified amount.</p>
+<h3>* Fire Brigade Charges</h3>
+<p>Incase of a fire involving the insured vehicle we will re-imburse all the expenses and costs incurred in an attempt to extinguish the fire upto a specified limit.</p>
+<h3>* Legal costs (Liability to Others)</h3>
+<p>Upon written agreement, we cover for legal costs accruing from an event covered here. These include reasonable fees for legal representation at a fatal accident enquiry as well as reasonable costs of defence against a charge of manslaughter or causing death by careless or dangerous driving.</p>
+<h3>* COMESA Protocol (Liability to Others)</h3>
+<p>This policy provides the minimum cover required by law to use the vehicle in any country that is a member of the COMESA.</p>
+<h3>* Emergency Treatment (Liability to Others)</h3>
+<p>We cover emergency treatment fees to all occupants of a covered vehicle (excluding relatives of the driver and company employees) following an accident</p>
+
+<h2>THIS POLICY DOES NOT COVER THE FOLLOWING*</h2>
+<p>* Theft by own employees </p>
+<p>* Damage to tyres as a result of braking, punctures, cuts or bursts</p>
+<p>* Depreciation arising out of wear and tear, as well as mechanical or electrical breakages</p>
+<p>* Any driver, whom with the general consent and knowledge of the Insured, is under the influence of any intoxicating liquor or drugs (unless administered by a medical practitioner)</p>
+<p>* War and related risks</p>
+<p>* Loss or damage arising outside of the geographical scope of this cover.</p>
+<p>* Political riots, terrorism and sabotage (May be covered at extra premium)</p>
+<p>* Consquential loss</p>
+
+ ]]></string>
+    <string name="title_activity_motor_detail">Motor Detail</string>
+    <string name="title_activity_get_quote">Get Quote</string>
+    <string name="surname">Surname</string>
+    <string name="firstname">First Name</string>
+    <string name="email">E-mail</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="physical_address">Physical Address</string>
+    <string name="postal_address">Postal Address</string>
+    <string name="vehicle_make">Vehicle Make</string>
+    <string name="example_vehicle_make">Example: Toyota</string>
+    <string name="example_vehicle_model">Example: Prado TX</string>
+    <string name="vehicle_model">Vehicle Model</string>
+    <string name="registration_number">Registration Number</string>
+    <string name="example_vehicle_reg_number">Example: UAX474P</string>
+    <string name="title_activity_quote_view">Your Free Quote</string>
+    <string name="title_activity_start_claim">Start A Claim</string>
+</resources>

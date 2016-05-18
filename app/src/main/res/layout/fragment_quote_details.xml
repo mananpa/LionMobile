@@ -1,0 +1,86 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="ug.co.lion.lionmobile.QuoteDetailsFragment">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#e3e3e3"
+            android:text="Enter Quote Details" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/met_vehicle_make"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/vehicle_make"
+
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelTextColor="@color/colorPrimaryDark"
+            app:met_floatingLabelTextSize="14sp"
+            app:met_helperText="@string/example_vehicle_make"
+            app:met_helperTextAlwaysShown="false" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/met_vehicle_model"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/vehicle_model"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelTextColor="@color/colorPrimaryDark"
+            app:met_floatingLabelTextSize="14sp"
+            app:met_helperText="@string/example_vehicle_model"
+            app:met_helperTextAlwaysShown="false" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/met_vehicle_registration_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/registration_number"
+            app:met_floatingLabel="highlight"
+            app:met_floatingLabelTextColor="@color/colorPrimaryDark"
+
+            app:met_floatingLabelTextSize="14sp"
+            app:met_helperText="@string/example_vehicle_reg_number"
+            app:met_helperTextAlwaysShown="false" />
+
+        <com.rengwuxian.materialedittext.MaterialEditText
+            android:id="@+id/met_vehicle__value_insured"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Total Value To be Insured"
+            android:inputType="numberDecimal"
+            app:met_autoValidate="true"
+            app:met_floatingLabel="highlight"
+
+            app:met_floatingLabelText="Value to be Insured"
+            app:met_floatingLabelTextColor="@color/colorPrimaryDark"
+            app:met_floatingLabelTextSize="14sp"
+            app:met_helperText="Enter the estimated value of the vehicle in UGX"
+            app:met_helperTextAlwaysShown="false" />
+
+
+        <Button
+            android:id="@+id/b_get_quote"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_background"
+            android:text="Get Free Quote" />
+
+
+    </LinearLayout>
+</ScrollView>
